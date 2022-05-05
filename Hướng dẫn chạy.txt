@@ -1,0 +1,5 @@
+Vào ứng dụng, chạy terminal: 
+	npm install @react-navigation/native
+	npm install @react-navigation/native-stack
+	npm i react-native-vector-icons
+	npm i @react-native-async-storage/async-storage
