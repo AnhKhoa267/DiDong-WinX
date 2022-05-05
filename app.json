@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Mobile_Linhkien",
+    "slug": "Mobile_Linhkien",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/shop.png",
+    "splash": {
+      "image": "./assets/shop1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/shop1.png",
+        "backgroundColor": "#fff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
